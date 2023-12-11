@@ -305,7 +305,8 @@ section .title::after{
   }
   
   .github-button {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
     padding: 10px 20px;
     background-color: #333;
     color: #fff;
@@ -316,7 +317,7 @@ section .title::after{
   
   .github-button:hover {
     background-color: #555;
-    text-align: centre;
+    
   }
   
   
