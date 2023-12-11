@@ -316,6 +316,7 @@ section .title::after{
   
   .github-button:hover {
     background-color: #555;
+    text-align: centre;
   }
   
   
